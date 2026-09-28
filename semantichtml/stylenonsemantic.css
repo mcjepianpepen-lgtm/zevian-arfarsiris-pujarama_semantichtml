@@ -1,0 +1,42 @@
+/*header*/
+.header{
+    background-color: blueviolet;
+    color:antiquewhite;
+    text-align: center;
+    padding: 30px;
+}
+/*menu*/
+.menu{
+   background-color: aqua;
+   padding: 15px;
+   text-align: center;
+}
+.menu a{
+    color:blueviolet;
+    text-decoration: none;
+    margin: 0 15px;
+}
+/*content*/
+.content{
+    background-color: antiquewhite;
+    padding: 25px;
+    margin: 20px;
+border-radius: 10px;
+}
+/*informasi*/
+.info{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 20px;
+    border-left: 5px slateblue;
+}
+/*footer*/
+.footer{ 
+background-color: blueviolet;
+color:antiquewhite;
+text-align: center;
+padding: 15px;
+}
+
+
+   
